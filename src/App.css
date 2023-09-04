@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.head{
-    font-family: 'Cinzel', serif;
-}
